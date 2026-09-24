@@ -1,0 +1,7 @@
+{
+  "name": "DocuBot - Asistente RAG con Grounding Estricto",
+  "description": "Asistente virtual de entrenamiento y nutrición deportiva con confinamiento estricto a base de datos confidencial y prevención de alucinaciones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
